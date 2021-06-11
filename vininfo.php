@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Vin Info
- * Description: Plugin for test work
+ * Description: Плагин, дающий возможность получить информацию о автомобиле по VIN. Для использования используйте шорткод [vin_info_shortcode]
  * Author:      Sergei Konovalov
  * Version:     1.0
  *
